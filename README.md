@@ -1,4 +1,4 @@
 # Political-Commetary-Classifier
 Natural Language Processing Model for classifying political slant in comments.
-<embed src="https://github.com/benjihillard/Political-Commetary-Classifier/blob/main/research.pdf" width="500" height="375">
+<iframe src="https://github.com/benjihillard/Political-Commetary-Classifier/blob/main/research.pdf" style="width:718px; height:700px;" frameborder="0"></iframe>
 
